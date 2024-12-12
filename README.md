@@ -18,6 +18,8 @@
 [![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3)](#gh-light-mode-only)
 [![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3#gh-light-mode-only)](#gh-light-mode-only)
 
+[![view count](https://profile-counter.glitch.me/jeffpeng3/count.svg)](#)
+
 
 ***
 ### public key
