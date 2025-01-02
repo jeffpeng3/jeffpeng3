@@ -5,15 +5,15 @@
 </picture>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only?)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=buefy#gh-light-mode-only)](#gh-light-mode-only?)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpeng3&layout=compact&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpeng3&layout=compact&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpeng3&layout=compact&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only?)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpeng3&layout=compact&theme=buefy#gh-light-mode-only)](#gh-light-mode-only?)
 
-[![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only)
-[![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
+[![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only?)
+[![waka time](https://github-readme-stats.vercel.app/api/wakatime?username=jeffpeng3&theme=buefy#gh-light-mode-only)](#gh-light-mode-only?)
 
 [![view count](https://profile-counter.glitch.me/jeffpeng3/count.svg)](#)
 
