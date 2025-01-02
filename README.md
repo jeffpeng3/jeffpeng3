@@ -5,8 +5,8 @@
 </picture>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&cache_seconds=3600&count_private=true&include_all_commits=truetheme=nightowl&#gh-dark-mode-only)](#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jeffpeng3&show_icons=true&cache_seconds=3600&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](#gh-light-mode-only)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpeng3&layout=compact&theme=nightowl#gh-dark-mode-only)](#gh-dark-mode-only)
